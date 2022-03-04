@@ -1,1 +1,1 @@
-# Google-Play-Store-data-analysis
+# As the final project for my Applied Computing With Google II class I took during the Spring 2020 semester, I worked with two other teammates to clean the dataset, identify key variables and conduct some preliminary data analysis.
